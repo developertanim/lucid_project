@@ -47,7 +47,7 @@ a, a::hover{
 	margin-right: 30px;
 }
 .nav ul li{
-	display: inline-block;
+	display: inline;
 	margin-left: 20px;
 	color: #fff;
 	list-style-type: none;
